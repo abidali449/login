@@ -53,6 +53,8 @@ const Signup = () => {
           required
         />
         <button type="submit" className="signup-button">Submit</button>
+         <button type="submit" className="signup-button">Submit</button>
+          <button type="submit" className="signup-button">Submit</button>
       </form>
     </div>
   );
